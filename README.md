@@ -1,4 +1,5 @@
 # AWS VM Automation (EC2) — Python
+
 A personal project that automates provisioning and cleanup of AWS EC2 instances using Python (boto3).
 Built as a junior-friendly DevOps/Backend automation project with a focus on clean structure, safe defaults, and reproducible steps.
 
