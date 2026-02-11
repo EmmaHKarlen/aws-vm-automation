@@ -1,6 +1,8 @@
 from typing import Optional
 import boto3
 
+
+
 UBUNTU_OWNER_CANONICAL = "099720109477"
 UBUNTU_2204_NAME_PATTERN = "ubuntu/images/hvm-ssd/ubuntu-jammy-22.04-amd64-server-*"
 
